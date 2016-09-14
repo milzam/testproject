@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8b467fff4c65c39d19fad38445da213520e700d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_b7bd1df1b3ce58a9df354346aea0f205005ed68f\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_e4b91ea76efcd6fbe8985147bca7bc31afe71f3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_aa96f70563d21c5d640537fb14c6dccd3985c6f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_6080e2691b15f31bd1953ced55305aa560d0d9b9\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_99ae4620f5024995e6228450f04e81d1bec98c35\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_eeb06c80bd1aa49efd67fb44342e9a64e8e3fadc\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_568020f02cd5cb4629f8ded1c3582a374e095f20\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="df1fce742b0ac1489882eaae1b33c55b85e5e529">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_70be16b2d390c638b5d6d5e44e2d4524567f331e\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_cae4de45014784478a282f696bb292b7383e7458\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_7f11fa31b724466ae9bd89b2920018eaaf390655\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_e0c7ce677ad4122482968a8f2fe2a8995121d4a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6910cd8a32e1a898b397045f3b209916f20f9f34\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_45d44878089febca4e39ae4517a3eed54415992c\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_0b11b06fafc51416694c6f7bb39659ba2c2a85f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_706c4760c39d85eb2a8f9884c2ef38a32faa39f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="57d3de39896ec677f6366419a8d74796cc0451f9">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aa027f6c5888c81018ac01c4b972a447c3fb9891\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_257904dc3a2aa97852bedec1da3994223448579b\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\AndroidDev\AStudio\HalalLocal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7c11a3457d97bb6ab7e7ba87001b6ec72473e6fa\classes.dex" />
+    </item>
+
+</items>
